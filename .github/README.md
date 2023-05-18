@@ -1,6 +1,8 @@
 # dootsfile
 🏠 - Personal Dotfiles (Managed by GNU Stow)
 
+![screenshot1](https://github.com/Ich-mag-dich/dootsfile/assets/92120487/030233bc-18f1-4dd0-bf01-6123e5850254)
+
 ![Bocchi](https://user-images.githubusercontent.com/114978689/227949867-bbb1dcb5-8914-434b-83fd-980975e61257.jpg "Current Setup")
 
 ## Tools Overview
